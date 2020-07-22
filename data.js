@@ -5,7 +5,7 @@ export default  {
         title: 'Milkfood',
         subtitle: 'Milkfood',
         description: 'Milkfood for',
-        image: '/images/d1.jpg',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfPrbnj1iuqfyv0n7EDd4Qln2Lvvef1pFQ0Q&usqp=CAU',
         rating: '2'
     },
         {
@@ -13,7 +13,7 @@ export default  {
         title: 'Milkfood',
         subtitle: 'Milkfood',
         description: 'Milkfood for',
-        image: '/images/d1.jpg',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfPrbnj1iuqfyv0n7EDd4Qln2Lvvef1pFQ0Q&usqp=CAU',
         rating: '5'
     },
         {
@@ -21,7 +21,7 @@ export default  {
         title: 'Milkfood',
         subtitle: 'Milkfood',
         description: 'Milkfood for',
-        image: '/images/d1.jpg',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfPrbnj1iuqfyv0n7EDd4Qln2Lvvef1pFQ0Q&usqp=CAU',
         rating: '4'
     },
         {
@@ -29,7 +29,7 @@ export default  {
         title: 'Milkfood',
         subtitle: 'Milkfood',
         description: 'Milkfood for',
-        image: '/images/d1.jpg',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfPrbnj1iuqfyv0n7EDd4Qln2Lvvef1pFQ0Q&usqp=CAU',
         rating: '3'
     },
         {
@@ -37,7 +37,7 @@ export default  {
         title: 'Milkfood',
         subtitle: 'Milkfood',
         description: 'Milkfood for',
-        image: '/images/d1.jpg',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfPrbnj1iuqfyv0n7EDd4Qln2Lvvef1pFQ0Q&usqp=CAU',
         rating: '4'
     },
         {
@@ -45,9 +45,10 @@ export default  {
         title: 'Milkfood',
         subtitle: 'Milkfood',
         description: 'Milkfood for',
-        image: '/images/d1.jpg',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfPrbnj1iuqfyv0n7EDd4Qln2Lvvef1pFQ0Q&usqp=CAU',
         rating: '4.5'
     },
     
 ]
 }
+
